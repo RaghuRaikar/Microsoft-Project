@@ -88,15 +88,15 @@ html, body {
     text-align: center;
     font-size: 2.5em;
 }
-
-.about-band-image {
+/*
+.about-car-image {
     float: left;
     height: 200px;
     width: 200px;
     margin: 15px;
     border-radius: 50%;
 }
-
+*/
 .main-footer {
     background-color: #56CCF2;
     color: white;
