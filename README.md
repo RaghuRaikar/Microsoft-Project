@@ -1,2 +1,2 @@
-# Microsoft-Project
-A fully working E-commerce website that sells car parts.
+# R-E-Motors-E-Commerce-Website
+A E-Commerce Website that sells car parts to increase car performance.
